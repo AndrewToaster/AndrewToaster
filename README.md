@@ -13,9 +13,9 @@
 
 <h2 align="center">Who am I?</h2>
 <p align="center">
-  I am just a kid that developed a love relationship towards coding. I most of my stuff<br/>
-  I do in my spare time, so response times can vary.<br/>
-  For some reason I'm obsessed with Toasts and Toaster (if that wasn't obvious).
+  I am just a kid that developed a love relationship towards coding.<br/>
+  Most of the stuff on here i do in my spare time, so response times can <i>vary</i>.<br/>
+  For some reason I'm obsessed with Toasts and Toaster <i>(if that wasn't obvious)</i>.
 </p>
   
 <h3 align="center">My goals!</h3>
