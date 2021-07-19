@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AndrewToasterr.AndrewToaster" alt="GitHub Badges" />
   <img src="https://img.shields.io/github/followers/AndrewToaster.svg?style=social&label=Follow" alt="GitHub Badges" />
-  <img src="https://img.shields.io/badge/-C%23%20Developer-gray?style=flat-round&logo=csharp" alt="GitHub Badges" />
+  <img src="https://img.shields.io/badge/-Developer-gray?style=flat-round&logo=csharp" alt="GitHub Badges" />
   </br>
   <img src="https://github-readme-stats.vercel.app/api?username=AndrewToaster&count_private=true&show_icons=true&hide=contribs&&theme=react&custom_title=⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀Andrew's Officer Card" alt="GitHub Stats" />
   </br>
