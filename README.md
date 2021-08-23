@@ -42,5 +42,11 @@
   <summary align="center">
     <h2>More stuff about me</br><h6><i>(Click me)</i></h6></h2>
   </summary>
-  <h4 align="center">🚧Hello there, this part of the bio is under construction🚧<h4>
+  <h4 align="center">🚧Hello there, this part of the bio is under construction🚧</h4>
 </details>
+<br>
+
+<h2 align="center">Where to contact me</h2>
+<p align="center">
+  <h4 align="center">🚧Hello there, this part of the bio is under construction🚧</h4>
+</p>
