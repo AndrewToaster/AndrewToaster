@@ -13,9 +13,9 @@
 
 <h2 align="center">Who am I?</h2>
 <p align="center">
-  I am just a boy that developed a relationship towards coding.<br/>
+  I am just a guy that developed a relationship towards coding.<br/>
   Most of the stuff on here I do in my spare time, so response times can <i>vary</i>.<br/>
-  Most of my work is either backend, CLIs, or libraries. Nothing fancy shamncy here.
+  Most of my work is either backend, CLIs, or libraries. Nothing fancy shmancy here.
 </p>
   
 <h3 align="center">My goals!</h3>
