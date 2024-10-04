@@ -13,7 +13,7 @@
 
 <h2 align="center">Who am I?</h2>
 <p align="center">
-  I am just a guy that developed a relationship towards coding.<br/>
+  I am just a peep that has a fixation on programing.<br/>
   Most of the stuff on here I do in my spare time, so response times can <i>vary</i>.<br/>
   Most of my work is either backend, CLIs, or libraries. Nothing fancy shmancy here.
 </p>
@@ -21,7 +21,7 @@
 <h3 align="center">My goals!</h3>
   
 <p align="center">
-  I love Open-Source projects and my intent is to make stuff that is Open-Sourced and that can help other people.<br/>
+  I love Open-Source projects and my intent is to make stuff that is Open-Source and that can help other people like it helped me.<br/>
 </p>
 
 <h2 align="center">Repository Showcase</h2>
